@@ -27,7 +27,7 @@ Instead, it will copy configuration files and the transitive dependencies (Webpa
 
 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, the [React documentation](https://reactjs.org/).
 
