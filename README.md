@@ -18,7 +18,7 @@ If you aren’t satisfied h the build tool and configuration choices, you can `e
 
 Instead, it will copy configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful i
 
-You can learn more in the Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more n the Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React,the [React documentation](https://reactjs.org/).
 
