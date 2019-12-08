@@ -11,8 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 ### `npm run build
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.l
 
 If you aren’t satisfied the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
