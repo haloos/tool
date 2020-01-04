@@ -25,7 +25,7 @@ To learn React,the[React documentation](https://reactjs.org/).
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Siz
+### Analyzing the Bundle Si
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
